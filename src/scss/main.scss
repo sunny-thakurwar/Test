@@ -1,0 +1,38 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+
+  &__add-contact-form {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    gap: 5px;
+  }
+
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  &__card {
+    border: 2px solid #d3dddd;
+    border-radius: 10px;
+    width: 190px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+    & p {
+      text-align: center;
+    }
+  }
+}
