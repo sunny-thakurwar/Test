@@ -44,6 +44,8 @@ The Conditinal Render component handle loading and error state of the app and re
 <img width="1438" alt="image" src="https://github.com/user-attachments/assets/4825bdb6-0003-4c72-b652-15fe7fe5b27b">
 
 
+### Available Scripts
+
 ### `npm start`
 
 Runs the app in the development mode.\
