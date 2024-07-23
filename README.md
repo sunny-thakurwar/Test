@@ -1,11 +1,9 @@
 
 # Getting Started with Project
 
-run the ```npm install  
-``` command
+```npm install ``` command
 
- run ```npm run start  
-```  to start the project
+```npm run start```  to start the project
 
 ### Project Description :
 
